@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# idea
+.idea
+
+# data
+/german-traffic-sign-recognition/data
